@@ -83,7 +83,7 @@ After running the analysis on the PaySim dataset (~6.3M transactions):
 - **Benford's Law:** Identified digit deviation patterns consistent with the synthetic nature of the dataset — in a real environment, significant deviations would trigger escalation
 - **Duplicate Payments:** Flagged transactions sharing identical destination, amount, type, and date — surfaced for control team review
 - **Round Numbers:** Identified a subset of transactions with amounts that are exact multiples of 1,000 — flagged for analytical review
-- **After-Hours Activity:** Quantified the volume and distribution of transactions outside defined business hours (08:00–18:00), with hourly breakdown
+- **After-Hours Activity:** Quantified the volume and distribution of transactions outside defined business hours (08:00–17:00), with hourly breakdown
 
 All exceptions are consolidated into a master exceptions table and visualised in the Power BI dashboard.
 
