@@ -88,9 +88,10 @@ After running the analysis on the PaySim dataset (~6.3M transactions):
 - **After-Hours Activity:** Quantified the volume and distribution of transactions outside defined business hours (08:00–17:00), with hourly breakdown
 
 Other Metrics that can be checked include:
-**High value transactions**
-**Rapid Transactions (Velocity Check)**
-**Missing / Invalid Data (Data Integrity)**
+
+-**High value transactions**
+-**Rapid Transactions (Velocity Check)**
+-**Missing / Invalid Data (Data Integrity)**
 
 All exceptions are consolidated into a master exceptions table and visualised in the Power BI dashboard.
 
