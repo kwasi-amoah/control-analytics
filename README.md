@@ -14,6 +14,8 @@ Rather than periodic manual reviews, CCM enables automated, ongoing exception de
 
 ---
 
+![Dashboard Preview](assets/dashboard_preview.png)
+
 ## Control Tests Implemented
 
 | # | Control Test | Risk Addressed | Method |
