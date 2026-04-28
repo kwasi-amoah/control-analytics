@@ -89,6 +89,10 @@ After running the analysis on the PaySim dataset (~6.3M transactions):
 
 All exceptions are consolidated into a master exceptions table and visualised in the Power BI dashboard.
 
+Other Metrics that can be checked include:
+**High value transactions**
+**Rapid Transactions (Velocity Check)**
+**Missing / Invalid Data (Data Integrity)**
 ---
 
 ## Power BI Dashboard Pages
