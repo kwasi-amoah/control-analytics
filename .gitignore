@@ -1,0 +1,15 @@
+# Data and generated outputs
+data/
+outputs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+venv/
