@@ -87,12 +87,13 @@ After running the analysis on the PaySim dataset (~6.3M transactions):
 - **Round Numbers:** Identified a subset of transactions with amounts that are exact multiples of 1,000 — flagged for analytical review
 - **After-Hours Activity:** Quantified the volume and distribution of transactions outside defined business hours (08:00–17:00), with hourly breakdown
 
-All exceptions are consolidated into a master exceptions table and visualised in the Power BI dashboard.
-
 Other Metrics that can be checked include:
 **High value transactions**
 **Rapid Transactions (Velocity Check)**
 **Missing / Invalid Data (Data Integrity)**
+
+All exceptions are consolidated into a master exceptions table and visualised in the Power BI dashboard.
+
 ---
 
 ## Power BI Dashboard Pages
